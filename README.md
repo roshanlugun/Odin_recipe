@@ -1,1 +1,2 @@
 # Odin_recipe
+So this is my first not first but the project i am doing with the help of The Odin Project I am gonna learn about websites through this curriculum I am gonna make a recipe website so that's it
